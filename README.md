@@ -1,1 +1,3 @@
-# Experiment-1
+# Experiment-1:
+Aim: Downloading and Installing VS Code, (Hello World and Calculator program)
+Theory : "Hello World" is printed on the screen by the provided C++ code. In order to perform input and output operations using cin and cout, it first includes the <iostream> header. The program can use elements from the standard namespace without prefixing them with std:: thanks to the statement using namespace std;. The program's entry point is the main() function. Within it, the string "Hello World" is sent to the standard output (typically the console) by cout \< "Hello World";. Lastly, the successful completion of the program is indicated by return 0;. Note: The code needs to be corrected for a few minor syntax errors.
