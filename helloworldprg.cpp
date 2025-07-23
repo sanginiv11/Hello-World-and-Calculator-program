@@ -5,3 +5,5 @@ int main(){
    cout <<"Hello World";// prints Hello World
 return 0;
 }
+/* OUTPUT
+Hello World */
