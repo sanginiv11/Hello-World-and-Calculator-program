@@ -13,3 +13,10 @@ int main() {
 
     return 0;
 }
+/*
+Output:
+
+Enter first number: 15
+Enter second number: 25
+Sum of given numbers = 40
+*/
