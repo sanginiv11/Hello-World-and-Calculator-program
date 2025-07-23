@@ -2,6 +2,13 @@
 Aim: Downloading and Installing VS Code, (Hello World and Calculator program)
 
 Algorithm: 
+- HELLO WORLD PRG
+1.Start the program.
+2.Include the necessary header for input/output (iostream).
+3.Begin the main function.
+4.Print "Hello World" to the screen.
+5.End the main function and terminate the program
+- CALC PRG. 
 1.Start the program.
 2.Declare three integer variables: num1, num2, and sum (initialize sum to 0).
 3.Display "Enter first number:" and take input for num1.
